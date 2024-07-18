@@ -24,4 +24,4 @@ groups:
         sevirity: CRITICAL
       annotations:
         summary: "NODE DOWN NODE DOWN I REPEAT NODE DOWN"
-        description: "Might as well close down your business bruv... alert sevirity is {{$labels.sevirity}}, alert got raised for instance {{$labels.instance}}"
+        description: "Might as well close down your business bruv... alert severity is {{$labels.severity}}, alert got raised for instance {{$labels.instance}}"
