@@ -21,7 +21,7 @@ groups:
       expr: up{job ='node_exporter_1'} == 0
       for: 2m
       labels:
-        sevirity: CRITICAL
+        severity: CRITICAL
       annotations:
         summary: "NODE DOWN NODE DOWN I REPEAT NODE DOWN"
         description: "Might as well close down your business bruv... alert severity is {{$labels.severity}}, alert got raised for instance {{$labels.instance}}"
