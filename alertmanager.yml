@@ -5,8 +5,8 @@ receivers:
   - name: admin
     email_config:
       - to : 'sumedhxgg@gmail.com'
-      - from: 'sumedhak.da.23@nitj.ac.in'  
-      - smarthost: smtp.gmail.com:587
-      - auth_username: 'sumedhak.da.23@nitj.ac.in'
-      - auth_identity: 'xdnr bjit fnrj fshh'
+        from: 'sumedhak.da.23@nitj.ac.in'  
+        smarthost: smtp.gmail.com:587
+        auth_username: 'sumedhak.da.23@nitj.ac.in'
+        auth_identity: 'xdnrbjitfnrjfshh'
 
