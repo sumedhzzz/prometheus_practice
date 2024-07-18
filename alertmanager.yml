@@ -9,5 +9,5 @@ receivers:
         smarthost: smtp.gmail.com:587
         auth_username: 'sumedhmail1@gmail.com'
         auth_identity: 'sumedhmail1@gmail.com'
-        auth_password: 'xdnrbjitfnrjfshh'
+        auth_password: ''
 
