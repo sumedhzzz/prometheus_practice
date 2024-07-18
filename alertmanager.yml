@@ -8,5 +8,6 @@ receivers:
         from: 'sumedhak.da.23@nitj.ac.in'  
         smarthost: smtp.gmail.com:587
         auth_username: 'sumedhak.da.23@nitj.ac.in'
-        auth_identity: 'xdnrbjitfnrjfshh'
+        auth_identity: 'sumedhak.da.23@nitj.ac.in'
+        auth_password: 'xdnrbjitfnrjfshh'
 
